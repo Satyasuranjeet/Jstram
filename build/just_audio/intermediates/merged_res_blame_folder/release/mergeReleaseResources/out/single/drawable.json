@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.ryanheise.just_audio-release-28:/drawable/notification_bg.xml",
+        "source": "com.ryanheise.just_audio-core-1.13.1-9:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.ryanheise.just_audio-release-28:/drawable/notification_icon_background.xml",
+        "source": "com.ryanheise.just_audio-core-1.13.1-9:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.ryanheise.just_audio-release-28:/drawable/notification_tile_bg.xml",
+        "source": "com.ryanheise.just_audio-core-1.13.1-9:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.ryanheise.just_audio-release-28:/drawable/notification_bg_low.xml",
+        "source": "com.ryanheise.just_audio-core-1.13.1-9:/drawable/notification_bg_low.xml"
+    }
+]
